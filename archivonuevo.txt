@@ -4,4 +4,6 @@ Esta es la primera modificacion en la rama master sin conflicto
 
 este cambio es para verlo con gif
 
-esto es un cambio en la rama desarrollo aqui puede haber conflicto
+
+esto es un cambio en la rama desarrollo hola estoy en desarrollo
+
