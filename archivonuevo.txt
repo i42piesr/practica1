@@ -7,3 +7,5 @@ este cambio es para verlo con gif
 
 esto es un cambio en la rama desarrollo hola estoy en desarrollo
 
+este cambio es para demostrar el stash
+
