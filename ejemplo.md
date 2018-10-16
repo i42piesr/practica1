@@ -1,6 +1,7 @@
 
 
-|**historia de usuario** |   
+|**historia de usuario** | 
+| ----------- | ---------------------  
 |**ID:**  001 | **Usuario:**  cliente                                
 | ----------- | -------------------- | 
 | **Nombre historia:** Buscar alumno |
