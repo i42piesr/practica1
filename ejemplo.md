@@ -1,10 +1,16 @@
-Titulo | Descripcion 
+### historia de usuario
 
---------|----------
+**ID:**  001 | **Usuario:**  cliente                               
+| --------- | ------------------------------------------------- | 
+**Nombre historia:** Buscar alumno
 
-imagen 1 | Contenido 1
+**Descripcion:** 
+Como usuario quiero poder buscar un alumno.
+| ------------------------------------------------------------- |
 
-imagen 2 | Contenido 2
+**Prioridad:** 1
 
-imagen 3 | Contenido 3
+**Criterios de aceptación:**
+Quiero poder buscar al alumno por su DNI y apellido.
+| ---------------------------
 
