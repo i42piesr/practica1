@@ -3,8 +3,7 @@
 **ID:**  001 | **Usuario:**  cliente                               
 | --------- | ------------------------------------------------- | 
 **Nombre historia:** Buscar alumno
-| -------------------------------------------------------------- |
-
+| --------------------------------|-----------------------------|
 **Descripcion:** 
 Como usuario quiero poder buscar un alumno.
 
@@ -14,6 +13,5 @@ Como usuario quiero poder buscar un alumno.
 
 **Criterios de aceptación:**
 Quiero poder buscar al alumno por su DNI y apellido.
-
 | ------------------------------------------------------------- |
 
