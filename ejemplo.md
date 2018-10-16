@@ -1,9 +1,10 @@
-Día | Ingresos | Egresos
+Titulo | Descripcion 
 
---- | -------- | -------
+--------|----------
 
-  1 | $25000 | $50
+imagen 1 | Contenido 1
 
-  2 | $200 | $320
+imagen 2 | Contenido 2
 
-  3 | $5 | $50000
+imagen 3 | Contenido 3
+
