@@ -1,3 +1,4 @@
-**Este texto está en negrita**
+| ## historias de usuario |
 
-*Este texto está en cursiva*
+| **ID:** 001 **Nombre:** Buscar alumno |
+
